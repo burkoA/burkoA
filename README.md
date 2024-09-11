@@ -5,7 +5,7 @@
 <ul>
   <li>Java, C# - .NET, ASP.NET, LINQ</li>
   <li>SQL - PostgresSQL, MS SQL, Oracle</li>
-  <li>Web Design - JavaScript, CSS, HTML, Bootstrap, JQuery</li>
+  <li>Web Design - JavaScript, CSS, HTML, Bootstrap, JQuery, Tailwind CSS</li>
   <li>Git, Wireshark, Linux, Microsoft Office, Active DIrectory, Bash, REST API, Google Cloud</li>
 </ul>
 
