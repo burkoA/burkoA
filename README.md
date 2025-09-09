@@ -3,10 +3,15 @@
 
 <h3>👨‍💻 Skills</h3>
 <ul>
-  <li>Java, C# - .NET, ASP.NET, LINQ</li>
+  <li>Java - Maven, Grangle, SpringBoot, Hibernate</li>
+  <li>C# - .NET, ASP.NET, LINQ</li>
   <li>SQL - PostgresSQL, MS SQL, Oracle</li>
   <li>Web Design - JavaScript, CSS, HTML, Bootstrap, JQuery, Tailwind CSS</li>
-  <li>Git, Wireshark, Linux, Microsoft Office, Active Directory, Bash, REST API, Google Cloud</li>
+  <li>Cloude Technology - Azure</li>
+  <li>Performance Tools - JMeter, LoadRunner, Gatling</li>
+  <li>Automation tools - Selenium, Rest Assured, Retrofit, Appache, JUnit, TestNG</li>
+  <li>CI/CD - Docker, Jenkins, GIT
+  <li>Other - Wireshark, Linux, Microsoft Office, Active Directory, Bash, PowerShell</li>
 </ul>
 
 <h3>🎓 Education</h3>
